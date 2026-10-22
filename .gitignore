@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Trained model artifacts
+*.joblib
+
+# Local editor files
+.vscode/
+.idea/
+
+# data
+data
